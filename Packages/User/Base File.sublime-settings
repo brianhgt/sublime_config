@@ -1,0 +1,11 @@
+{
+
+  "jsdocs_spacer_between_sections": true,
+  "jsdocs_extend_double_slash": false,
+
+  // Add a '[description]' placeholder for the return tag?
+  "jsdocs_return_description": false,
+
+  // Add a '[description]' placeholder for the param tag?
+  "jsdocs_param_description": false,
+}

@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"LiveReload",
+		"Outline",
+		"Package Control",
+		"SublimeCodeIntel",
+		"Theme - Spacegray",
+		"View In Browser"
+	]
+}
